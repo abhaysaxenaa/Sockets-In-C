@@ -1,4 +1,4 @@
-﻿Systems Programming - CS214 - Spring 2021
+Systems Programming - CS214 - Spring 2021
 Project 3 - Networking
 
 
