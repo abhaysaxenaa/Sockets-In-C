@@ -3,11 +3,11 @@ Project 3 - Networking
 
 
 Name: Jesse Fisher
-NetID: jaf490
+NetID:
 
 
 Name: Abhay Saxena
-NetID: ans192
+NetID:
 
 
 IMPORTANT NOTE: We only considered the message code to be an ‘uppercase’ code, since this was the specified format in the project writeup. So, the server will only accept, for instance, “SET” and not “set”.
